@@ -1,0 +1,12 @@
+.colcenter {
+    text-align: center;
+}
+
+.colcenter>img {
+    width: 100%;
+}
+
+.colcenter>p {
+    background-color: #00C800 ;
+    color: white ;
+}
